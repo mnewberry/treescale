@@ -1,7 +1,9 @@
 # treescale
 
-This repository reproduces the analysis of a study of fractal branching in
-trees.
+This repository reproduces the analysis of a study of fractal branching of
+trees in art.
+
+![three trees](./samples/grove5.svg)
 
 ## Data and Reproducibility
 
