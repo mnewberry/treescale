@@ -19,7 +19,7 @@ which contains each data figure.
 
 To generate a random grove of three trees with different values of alpha,
 simply load `grove.svg` in a web browser such as Firefox or use
-[the raw github url][https://raw.githubusercontent.com/mnewberry/treescale/main/samples/grove-embed.svg].
+[this link](https://biomath.lsa.umich.edu/grove-embed.svg).
 
 For transparency of the data collection process, the original hand-annotated
 SVG files for each artwork by each author (authors `j`, `m` and anonymous
