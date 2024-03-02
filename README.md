@@ -18,7 +18,7 @@ in the repository root directory. This will generate the file `Rplots.pdf`
 which contains each data figure.
 
 To generate a random grove of three trees with different values of alpha,
-simply load `grove.svg` in a web browser such as Firefox or use
+simply load `grove.svg` in a web browser such as Firefox or reload
 [this link](https://biomath.lsa.umich.edu/grove-embed.svg).
 
 For transparency of the data collection process, the original hand-annotated
