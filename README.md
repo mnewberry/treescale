@@ -1,7 +1,7 @@
 # treescale
 
-This repository reproduces the Gao and Newberry (2025) analysis of a study of
-fractal branching of trees in art.
+This repository reproduces the Gao and Newberry (2025) analysis of fractal tree
+branching in art.
 
 ![three trees](./samples/grove5.svg)
 
