@@ -1,7 +1,7 @@
 # treescale
 
-This repository reproduces the analysis of a study of fractal branching of
-trees in art.
+This repository reproduces the Gao and Newberry (2025) analysis of a study of
+fractal branching of trees in art.
 
 ![three trees](./samples/grove5.svg)
 
@@ -19,7 +19,7 @@ which contains each data figure.
 
 To generate a random grove of three trees with different values of alpha,
 simply load `grove.svg` in a web browser such as Firefox or reload
-[this link](https://biomath.lsa.umich.edu/grove-embed.svg).
+[this link](https://mg.newberry.phd/grove-embed.svg).
 
 For transparency of the data collection process, the original hand-annotated
 SVG files for each artwork by each author (authors `j`, `m` and anonymous
@@ -31,6 +31,10 @@ javascript console (sometimes called Web Developer Console). This generates the
 contents of the corresponding `samples/gtm.nlsv` file as a javascript variable.
 
 ## References
+
+Gao, J. & Newberry, M.G., (2025) Scaling in branch thickness and the fractal
+aesthetic of trees. PNAS Nexus, 4(2), pgaf003.
+https://doi.org/10.1093/pnasnexus/pgaf003
 
 Lin, Q. & Newerry, M.G., (2023) Seeing through noise in power laws. J. 
 Roy. Soc. Interface, 20(205):20230310.
